@@ -3,7 +3,7 @@
 Backend-focused Software Engineer from India building **scalable web systems and REST APIs**.
 
 I work primarily with **Java & Spring Boot**, with a strong focus on **system design, clean architecture, and performance**.  
-Currently preparing for **FAANG-level internships & software engineering roles**.
+Currently preparing for **internships & software engineering roles**.
 
 ---
 
