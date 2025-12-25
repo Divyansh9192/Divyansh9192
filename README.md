@@ -9,7 +9,7 @@ Currently preparing for **FAANG-level internships & software engineering roles**
 
 ## 🚀 What I Do
 
-I don’t just build CRUD apps — I build **systems**.
+I build  **scable and production ready systems**.
 
 - Designing **RESTful APIs**
 - Implementing **authentication & authorization**
@@ -36,8 +36,6 @@ I don’t just build CRUD apps — I build **systems**.
 🔗 Backend: https://github.com/Divyansh9192/NeonStays-Backend  
 🔗 Frontend: https://github.com/Divyansh9192/NeonStays-Frontend  
 
-This project proves I can:
-> Build a complete product from database → API → frontend → payments → deployment
 
 ---
 
