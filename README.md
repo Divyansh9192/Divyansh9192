@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Divyansh Deep
+# 👋 Hi, I'm Divyansh 
 
 I love building things and understanding the **fundamentals of how they work**.
 
