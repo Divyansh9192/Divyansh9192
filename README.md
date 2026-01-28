@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Divyansh 
-
+<h1 align="center">Hi, I am Divyansh 👋</h1>
 I love building things and understanding the **fundamentals of how they work**.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyansh9192&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh9192" /> </p>
 
